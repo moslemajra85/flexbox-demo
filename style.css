@@ -34,11 +34,11 @@
   background-color: pink;
   justify-content: center;
   padding: 20px;
-
 }
 
-#list a  {
-    text-decoration: none;
-    padding: 20px;
-
+#list a {
+  text-decoration: none;
+  padding: 20px;
+  font-family: sans-serif;
+  color: #272727
 }
